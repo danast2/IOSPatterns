@@ -70,3 +70,5 @@ print("First Person name = \(firstPersonNew.name!) and surname = \(firstPersonNe
 secondPersonNew.name = "Roma"
 print("Second Person name = \(secondPersonNew.name!) and surname = \(firstPersonNew.surname!)")
 print("First Person name = \(firstPersonNew.name!) and surname = \(firstPersonNew.surname!)")
+
+//это порождающий паттерн

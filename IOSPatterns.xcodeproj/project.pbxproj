@@ -6,10 +6,6 @@
 	objectVersion = 56;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		30C02B652D757F1A00979793 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C02B642D757F1A00979793 /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		30C02B5F2D757F1A00979793 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -24,8 +20,8 @@
 
 /* Begin PBXFileReference section */
 		30C02B612D757F1A00979793 /* IOSPatterns */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = IOSPatterns; sourceTree = BUILT_PRODUCTS_DIR; };
-		30C02B642D757F1A00979793 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		30C02B6B2D757F3700979793 /* Prototype.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Prototype.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		30C02B6C2D76158100979793 /* Factory.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Factory.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +54,8 @@
 		30C02B632D757F1A00979793 /* IOSPatterns */ = {
 			isa = PBXGroup;
 			children = (
-				30C02B642D757F1A00979793 /* main.swift */,
 				30C02B6B2D757F3700979793 /* Prototype.playground */,
+				30C02B6C2D76158100979793 /* Factory.playground */,
 			);
 			path = IOSPatterns;
 			sourceTree = "<group>";
@@ -122,7 +118,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				30C02B652D757F1A00979793 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
