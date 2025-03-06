@@ -24,6 +24,7 @@
 		30C02B6C2D76158100979793 /* Factory.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Factory.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		30C02B6D2D79B85900979793 /* Abstract Factory.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Abstract Factory.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		30C02B6E2D79BFE200979793 /* Builder.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Builder.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		30C02B6F2D79C36F00979793 /* Singleton.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Singleton.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				30C02B6C2D76158100979793 /* Factory.playground */,
 				30C02B6D2D79B85900979793 /* Abstract Factory.playground */,
 				30C02B6E2D79BFE200979793 /* Builder.playground */,
+				30C02B6F2D79C36F00979793 /* Singleton.playground */,
 			);
 			path = IOSPatterns;
 			sourceTree = "<group>";
