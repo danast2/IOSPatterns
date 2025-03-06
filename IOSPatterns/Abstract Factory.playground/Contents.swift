@@ -91,10 +91,10 @@ class ChinaFactory: IPhoneFactory {
 var isChinaWorld = true
 
 func getFactory() -> IPhoneFactory {
-    return isChinaWorld ? AppleFactory() : ChinaFactory()
+    return isChinaWorld ? ChinaFactory() : AppleFactory()
 }
 
-isChinaWorld = true
+isChinaWorld = false
 
 let factory = getFactory()
 let ipad = factory.getIPad()
