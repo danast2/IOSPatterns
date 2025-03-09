@@ -33,6 +33,7 @@
 		30DFCC482D7C53A1004362CD /* Composite.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Composite.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		30DFCC4A2D7C55A7004362CD /* Iterator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Iterator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		30DFCC4B2D7C57CE004362CD /* Visitor.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Visitor.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		30DFCC4C2D7E2834004362CD /* Decorator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Decorator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +79,7 @@
 				30DFCC482D7C53A1004362CD /* Composite.playground */,
 				30DFCC4A2D7C55A7004362CD /* Iterator.playground */,
 				30DFCC4B2D7C57CE004362CD /* Visitor.playground */,
+				30DFCC4C2D7E2834004362CD /* Decorator.playground */,
 			);
 			path = IOSPatterns;
 			sourceTree = "<group>";
