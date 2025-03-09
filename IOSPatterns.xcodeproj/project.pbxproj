@@ -40,6 +40,7 @@
 		30DFCC512D7E301A004362CD /* Command.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Command.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		30DFCC522D7E30CF004362CD /* Flyweight.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Flyweight.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		30DFCC532D7E3204004362CD /* Proxy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Proxy.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		30DFCC542D7E32E1004362CD /* Memento.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Memento.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +93,7 @@
 				30DFCC512D7E301A004362CD /* Command.playground */,
 				30DFCC522D7E30CF004362CD /* Flyweight.playground */,
 				30DFCC532D7E3204004362CD /* Proxy.playground */,
+				30DFCC542D7E32E1004362CD /* Memento.playground */,
 			);
 			path = IOSPatterns;
 			sourceTree = "<group>";
