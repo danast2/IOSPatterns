@@ -39,6 +39,7 @@
 		30DFCC4F2D7E2E0E004362CD /* Strategy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Strategy.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		30DFCC512D7E301A004362CD /* Command.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Command.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		30DFCC522D7E30CF004362CD /* Flyweight.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Flyweight.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		30DFCC532D7E3204004362CD /* Proxy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Proxy.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +91,7 @@
 				30DFCC4F2D7E2E0E004362CD /* Strategy.playground */,
 				30DFCC512D7E301A004362CD /* Command.playground */,
 				30DFCC522D7E30CF004362CD /* Flyweight.playground */,
+				30DFCC532D7E3204004362CD /* Proxy.playground */,
 			);
 			path = IOSPatterns;
 			sourceTree = "<group>";
