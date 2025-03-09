@@ -235,6 +235,27 @@
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
+		<key>Flyweight (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>42</integer>
+		</dict>
+		<key>Flyweight (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>43</integer>
+		</dict>
+		<key>Flyweight (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>41</integer>
+		</dict>
 		<key>IOSPatterns.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
